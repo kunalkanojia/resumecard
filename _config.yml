@@ -1,0 +1,142 @@
+# Site settings
+title: Kunal Kanojia's CV
+description: Kunal Kanojia's CV
+favicon: /assets/img/avatar.jpeg
+baseurl: https://kunalkanojia.github.io/resumecard
+url: https://kunalkanojia.github.io/resumecard
+rss_url: /pages/atom.xml
+google_analytics: UA-80108133-1
+
+# Build settings
+markdown: kramdown
+
+exclude: [vendor]
+
+# Author settings
+author:
+  name: Kunal Kanojia
+  title: Scala/Java Developer
+  address: Singapore
+  email: kanojia.kunal@yahoo.com
+  link:
+  weibo:
+  github: kunalkanojia
+  linkedin: kunalkanojia
+  twitter: _kkanojia
+  gavatar: /resumecard/assets/img/avatar.JPG
+  stackoverflow:
+#  stackoverflow: 4582127
+  workHistory:
+    - work1:
+      company: Citadel Technology Solutions Pte Ltd
+      location: Singapore, Singapore
+      title: Senior Software Engineer
+      started: 2016
+      duration: (Feb 2016 - Present)
+      description: Scala developer building distributed scalable application at a growing startup. <br>
+                   Building an suite of E-Governance applications to be used by millions of people for a government in Asia. <br>
+                   Technology stack – Scala, Akka, Play framework, Eventuate, Cassandra, Reactjs. <br>
+                   Developing a microservices architecture with event sourcing and CQRS. <br>
+    - work2:
+      company: MSCI
+      location: Mumbai, India
+      title: Senior Associate
+      started: 2014
+      duration: (July 2014-Jan 2016)
+      description: Built a completely new scala application which will calculate and deliver risk data on request over a REST api. Using Spray.io and breeze for linear algebra.  <br>
+                   Major work is done using –Scala, Java, Gradle , Angular JS, Shell scripting and Oracle.  <br>
+                   Implemented calculations in SciDB and evaluated performance against matlab.  <br>
+                   Also developed and maintained API’s for reading and writing huge amount of risk data to oracle database. These API’s are used by matlab and java clients.  <br>
+                   Built and maintained ecosystem of multiple JVM based applications which helped deliver MSCI Barra risk models daily to the clients.  <br>
+    - work3:
+      company: JP Morgan
+      location: Mumbai, India
+      title: Associate, Application Developer
+      started: 2012
+      duration: (Oct 2012-July 2014)
+      description: Settlements and Clearing Technology (CIB) -  <br>
+                   Worked on building and enhancing three different J2ee applications using core java, multithreading, spring, struts, JMS, Sybase, and Oracle 10g.  <br>
+                   The applications deal with settlements tracking, reporting of trade volumes & breaks and UI for positions and settlements system.  <br>
+                   My role included understanding requirements from the user, implementing the complete requirement, releasing it to production and L3 support for the same.  <br>
+                   Worked under lean agile mode and developing systems using TDD. Worked under Scrum and Kanban models.  <br>
+    - work4:
+      company: Nomura Holdings (Ex Lehman Brothers)
+      location: Mumbai, India
+      title: Senior Developer
+      started: 2008
+      duration: (June 2008-Sept 2012)
+      description: Swaps trading Platform -  <br>
+                    Owned complete development and support of trading systems UI which was built in C# and .NET.  <br>
+                    Built a java module which relays messages to EOD calculation engine using core java and JMS.  <br>
+                    Prime Services – Wire Transfer application <br>
+                    Built a new wire transfer application for clients with backend in Java and an external client facing UI in Flex/Action Script. <br>
+                    Studied multiple SWIFT message formats and wrote a parser to read those. <br>
+                    Worked on penetration testing for the application along with an external security testing agency for the external user interface. <br>
+                    Prime Services – Trade capture application - <br>
+                    As a team built a completely new trade capture platform for prime services business. <br>
+                    Worked with the downstream settlement system GLOSS to understand the message formats and built a new message transfer module to transfer messages over JMS in real time. <br>
+                    Created a sub module to display real time trade settlement statuses to clients. <br>
+                    Wrote multiple procedures to fetch settlement and trade report for clients. <br>
+                    Individually implemented a static data capture and caching mechanism from a data repository. <br>
+                    Built a client facing UI for external clients to be able to enter individual trades and upload multiple trades. <br>
+  educationHistory:
+    - education1:
+      organization: VJTI (Veermata Jijabai Technological Institute)
+      location: Mumbai, India
+      degree: Bachelor
+      major: Information Technology
+      started: 2004
+      duration: (2004 - 2008)
+      description: Studied computer science. <br>
+                   Main cources include - Data structures and Algorithms, C, C++, Operating systems and Networks.
+  frameworks:
+    - framework1:
+      name: Akka
+    - framework2:
+      name: Play framework
+    - framework2:
+      name: Spring
+    - framework1:
+      name: JMS
+    - framework1:
+      name: Android
+    - framework1:
+      name: AngularJS
+    - framework2:
+      name: ExtJS
+  programmingSkills:
+    - skill1:
+      name: Java/ J2EE
+      percentage: 75%
+    - skill2:
+      name: Scala
+      percentage: 60%
+    - skill3:
+      name: JavaScript
+      percentage: 60%
+    - skill4:
+      name: HTML5
+      percentage: 60%
+    - skill5:
+      name: Matlab
+      percentage: 50%
+    - skill6:
+      name: Shell Scripting
+      percentage: 60%
+    - skill7:
+      name: SQL
+      percentage: 80%
+  databases:
+    - database1:
+      name: Oracle
+    - database2:
+      name: Cassandra
+    - database3:
+      name: MySql
+    - database4:
+      name: Postgres
+  clouds:
+    - cloud1:
+      name: AWS
+    - cloud2:
+      name: Heroku
