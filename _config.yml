@@ -2,8 +2,8 @@
 title: Kunal Kanojia's CV
 description: Kunal Kanojia's CV
 favicon: /assets/img/avatar.jpg
-#baseurl: https://kunalkanojia.github.io/resumecard
-#url: https://kunalkanojia.github.io/resumecard
+baseurl: https://kunalkanojia.github.io/resumecard
+url: https://kunalkanojia.github.io/resumecard
 rss_url: /pages/atom.xml
 google_analytics: UA-80108133-1
 
