@@ -135,6 +135,8 @@ author:
       name: MySql
     - database4:
       name: Postgres
+    - database5:
+      name: MongoDB
   clouds:
     - cloud1:
       name: AWS
