@@ -94,6 +94,8 @@ author:
       name: Akka
     - framework2:
       name: Play framework
+    - framework5:
+      name: Spark    
     - framework2:
       name: Spring
     - framework1:
