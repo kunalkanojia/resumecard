@@ -98,12 +98,16 @@ author:
       name: Spring
     - framework1:
       name: JMS
+    - framework3:
+      name: Hibernate
     - framework1:
       name: Android
     - framework1:
       name: AngularJS
     - framework2:
       name: ExtJS
+    - framework4:
+      name: JUnit, Specs2, Selenium
   programmingSkills:
     - skill1:
       name: Java/ J2EE
