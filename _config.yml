@@ -97,9 +97,9 @@ author:
     - framework2:
       name: Spring
     - framework1:
-      name: JMS
+      name: ActiveMQ, Tibco EMS, Kafka
     - framework3:
-      name: Hibernate
+      name: Hibernate, Ibatis, Slick
     - framework1:
       name: Android
     - framework1:
@@ -107,7 +107,7 @@ author:
     - framework2:
       name: ExtJS
     - framework4:
-      name: JUnit, Specs2, Selenium
+      name: JUnit, Cucumber, ScalaTest, Specs2, Selenium
   programmingSkills:
     - skill1:
       name: Java/ J2EE
