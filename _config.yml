@@ -137,6 +137,8 @@ author:
       name: Postgres
     - database5:
       name: MongoDB
+    - database6:
+      name: Sybase
   clouds:
     - cloud1:
       name: AWS
