@@ -27,6 +27,14 @@ author:
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
+    - work0:
+      company: Open Source Contributions
+      location:
+      title: 
+      started:
+      duration:
+      description: Contributer to play framework. <br>
+                   Have contributed multiple refactorings and documentation changes in Play framework codebase.
     - work1:
       company: Citadel Technology Solutions Pte Ltd
       location: Singapore, Singapore
