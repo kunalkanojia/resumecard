@@ -111,9 +111,7 @@ author:
     - framework1:
       name: Android
     - framework1:
-      name: AngularJS
-    - framework2:
-      name: ExtJS
+      name: AngularJS, ExtJS
     - framework4:
       name: JUnit, Cucumber, ScalaTest, Specs2, Selenium
   programmingSkills:
