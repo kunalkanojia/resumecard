@@ -33,8 +33,10 @@ author:
       title: 
       started:
       duration:
-      description: Contributer to <a href="https://github.com/playframework/playframework"><em>play framework.</em></a> <br>
-                   Have contributed multiple refactorings and documentation updates in Play framework codebase.
+      description: Contributer to <a href="https://github.com/playframework/playframework"><em>play framework.</em></a>.
+                   Have contributed multiple refactorings and documentation updates in Play framework codebase. <br>
+                   Author of <a href="https://github.com/kunalkanojia/tasks-teamcity-plugin"> tasks team city plugin</a>. 
+                   The plugin helps identify pending todos and fixme's in the code nad prepares a report. <br>
     - work1:
       company: Citadel Technology Solutions Pte Ltd
       location: Singapore, Singapore
