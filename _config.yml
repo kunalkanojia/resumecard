@@ -45,8 +45,7 @@ author:
       started: 2016
       duration: (Sept 2016 - Present)
       description: Full stack developer working with asset management team. <br>
-                   Building applications using ReactJs, Java, Typescript and Scala. <br>
-                   Deploying to private cloud based on cloudfoundry.
+                   Building applications using ReactJs, Java, Typescript and Scala. Deploying to private cloud based on cloudfoundry. <br>
     - work1:
       company: Citadel Technology Solutions Pte Ltd
       location: Singapore, Singapore
@@ -111,9 +110,9 @@ author:
                    Main cources include - Data structures and Algorithms, C, C++, Operating systems and Networks.
   frameworks:
     - framework1:
-      name: Akka
+      name: Spark, Hadoop, Hive, Hbase
     - framework2:
-      name: Play framework
+      name: Akka, Play framework
     - framework2:
       name: Spring
     - framework1:
@@ -128,16 +127,13 @@ author:
       name: JUnit, Cucumber, ScalaTest, Specs2, Selenium
   programmingSkills:
     - skill1:
-      name: Java/ J2EE
+      name: Java / J2EE
       percentage: 75%
     - skill2:
       name: Scala
       percentage: 60%
     - skill3:
       name: JavaScript
-      percentage: 60%
-    - skill4:
-      name: HTML5
       percentage: 60%
     - skill5:
       name: Matlab
