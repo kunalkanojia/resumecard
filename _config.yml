@@ -1,7 +1,7 @@
 # Site settings
 title: Kunal Kanojia's CV
 description: Kunal Kanojia's CV
-favicon: /assets/img/avatar.jpeg
+favicon: /assets/img/avatar.jpg
 baseurl: https://kunalkanojia.github.io/resumecard
 url: https://kunalkanojia.github.io/resumecard
 rss_url: /pages/atom.xml
@@ -27,12 +27,31 @@ author:
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
+    - work0:
+      company: Open Source Contributions
+      location:
+      title: 
+      started: 2017
+      duration:
+      description: Contributer to <a href="https://github.com/playframework/playframework"><em>play framework.</em></a>.
+                   Have contributed multiple refactorings and documentation updates in Play framework codebase. <br>
+                   Author of <a href="https://github.com/kunalkanojia/tasks-teamcity-plugin"> tasks team city plugin</a>. 
+                   The plugin helps identify pending todos and fixme's in the code and prepares a report. <br>
+                   Plugin URL - <a href="https://plugins.jetbrains.com/plugin/9168">Jetbrains teamcity plugins</a>
+    - work01:
+      company: JP Morgan
+      location: Singapore, Singapore
+      title: Associate
+      started: 2016
+      duration: (Sept 2016 - Present)
+      description: Full stack developer working with asset management team. <br>
+                   Building applications using ReactJs, Java, Typescript and Scala. Deploying to private cloud based on cloudfoundry. <br>
     - work1:
       company: Citadel Technology Solutions Pte Ltd
       location: Singapore, Singapore
       title: Senior Software Engineer
       started: 2016
-      duration: (Feb 2016 - Present)
+      duration: (Feb 2016 - Sept 2016)
       description: Scala developer building distributed scalable application at a growing startup. <br>
                    Building an suite of E-Governance applications to be used by millions of people for a government in Asia. <br>
                    Technology stack – Scala, Akka, Play framework, Eventuate, Cassandra, Reactjs. <br>
@@ -91,31 +110,30 @@ author:
                    Main cources include - Data structures and Algorithms, C, C++, Operating systems and Networks.
   frameworks:
     - framework1:
-      name: Akka
+      name: Spark, Hadoop, Hive, Hbase
     - framework2:
-      name: Play framework
+      name: Akka, Play framework
     - framework2:
       name: Spring
     - framework1:
-      name: JMS
+      name: ActiveMQ, Tibco EMS, Kafka
+    - framework3:
+      name: Hibernate, Ibatis, Slick
     - framework1:
       name: Android
     - framework1:
-      name: AngularJS
-    - framework2:
-      name: ExtJS
+      name: React JS, AngularJS, ExtJS
+    - framework4:
+      name: JUnit, Cucumber, ScalaTest, Specs2, Selenium
   programmingSkills:
     - skill1:
-      name: Java/ J2EE
+      name: Java / J2EE
       percentage: 75%
     - skill2:
       name: Scala
       percentage: 60%
     - skill3:
       name: JavaScript
-      percentage: 60%
-    - skill4:
-      name: HTML5
       percentage: 60%
     - skill5:
       name: Matlab
@@ -144,3 +162,5 @@ author:
       name: AWS
     - cloud2:
       name: Heroku
+    - cloud3: 
+      name: Cloudfoundry
