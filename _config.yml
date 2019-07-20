@@ -15,8 +15,8 @@ exclude: [vendor]
 # Author settings
 author:
   name: Kunal Kanojia
-  title: Scala/Java Developer
-  address: Singapore
+  title: Developer
+  address: Sydney
   email: kanojia.kunal@yahoo.com
   link:
   weibo:
@@ -27,6 +27,13 @@ author:
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
+    - work001:
+      company: Atlassian
+      location:
+      title:
+      started: 2018
+      duration:
+      description: All things Jira Service Desk
     - work0:
       company: Open Source Contributions
       location:
